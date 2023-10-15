@@ -1,0 +1,5 @@
+# //specific file ignore
+# /index.html
+
+# all html file will ignore due to .html extension 
+*.html
